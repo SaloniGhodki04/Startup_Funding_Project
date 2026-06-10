@@ -49,3 +49,9 @@ Shows recent investments, biggest investments, preferred sectors, funding stages
 This project helps users explore and understand the Indian startup ecosystem by transforming raw funding data into meaningful insights using interactive visualizations and analytical dashboards.
 
 <img width="1919" height="844" alt="Screenshot 2026-06-10 152905" src="https://github.com/user-attachments/assets/72c39cd9-11d4-4de1-b4c9-0150f99e1446" />
+
+<img width="1914" height="842" alt="Screenshot 2026-06-10 153050" src="https://github.com/user-attachments/assets/8fc69ae8-0eff-484c-a366-8abbca7940ab" />
+
+<img width="1919" height="843" alt="Screenshot 2026-06-10 153130" src="https://github.com/user-attachments/assets/cd601d84-24a2-406b-b44e-16d7d64ede3a" />
+
+
